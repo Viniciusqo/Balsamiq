@@ -759,7 +759,7 @@
       <Ligacoes>
         <Ligacao Destino_ID="6">
           <MostraCardinalidade Valor="-1" Card_id="12"/>
-          <Cardinalidades Cardinalidade="3">
+          <Cardinalidades Cardinalidade="4">
             <Cardinalidade nome="" id="12">
               <Left Valor="255"/>
               <Top Valor="313"/>
@@ -777,7 +777,7 @@
               <TamAuto Valor="-1"/>
               <Tipo Valor="0"/>
               <TextAlin Valor="0"/>
-              <Card Valor="3"/>
+              <Card Valor="4"/>
               <Fixa Valor="0"/>
               <Ligacoes/>
             </Cardinalidade>
@@ -787,7 +787,7 @@
         </Ligacao>
         <Ligacao Destino_ID="10">
           <MostraCardinalidade Valor="-1" Card_id="13"/>
-          <Cardinalidades Cardinalidade="2">
+          <Cardinalidades Cardinalidade="4">
             <Cardinalidade nome="" id="13">
               <Left Valor="522"/>
               <Top Valor="313"/>
@@ -805,7 +805,7 @@
               <TamAuto Valor="-1"/>
               <Tipo Valor="0"/>
               <TextAlin Valor="0"/>
-              <Card Valor="2"/>
+              <Card Valor="4"/>
               <Fixa Valor="0"/>
               <Ligacoes/>
             </Cardinalidade>

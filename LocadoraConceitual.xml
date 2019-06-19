@@ -34,7 +34,7 @@
       <Height Valor="66"/>
       <Fonte default="-1"/>
       <Atributos>
-        <Atributo nome="N° do RG" id="14">
+        <Atributo nome="NÂ° do RG" id="14">
           <Left Valor="314"/>
           <Top Valor="48"/>
           <Width Valor="76"/>
@@ -179,7 +179,7 @@
             </Ligacao>
           </Ligacoes>
         </Atributo>
-        <Atributo nome="Nº do RG" id="26">
+        <Atributo nome="NÂº do RG" id="26">
           <Left Valor="173"/>
           <Top Valor="424"/>
           <Width Valor="76"/>
@@ -211,7 +211,7 @@
             </Ligacao>
           </Ligacoes>
         </Atributo>
-        <Atributo nome="Nº do CNH" id="29">
+        <Atributo nome="NÂº do CNH" id="29">
           <Left Valor="36"/>
           <Top Valor="309"/>
           <Width Valor="82"/>
@@ -275,7 +275,7 @@
             </Ligacao>
           </Ligacoes>
         </Atributo>
-        <Atributo nome="Endereço" id="41">
+        <Atributo nome="EndereÃ§o" id="41">
           <Left Valor="233"/>
           <Top Valor="376"/>
           <Width Valor="79"/>
@@ -362,7 +362,7 @@
                 </Ligacao>
               </Ligacoes>
             </Atributo>
-            <Atributo nome="n°" id="50">
+            <Atributo nome="nÂ°" id="50">
               <Left Valor="318"/>
               <Top Valor="395"/>
               <Width Valor="40"/>
@@ -446,7 +446,7 @@
       <AutoRelacoes AutoRelacionado="0"/>
       <Especializacoes ehEsp="0"/>
     </Entidade>
-    <Entidade nome="Veículos" id="10">
+    <Entidade nome="VeÃ­culos" id="10">
       <Left Valor="560"/>
       <Top Valor="284"/>
       <Width Valor="102"/>
@@ -485,7 +485,7 @@
             </Ligacao>
           </Ligacoes>
         </Atributo>
-        <Atributo nome="N° do Chassi" id="57">
+        <Atributo nome="NÂ° do Chassi" id="57">
           <Left Valor="697"/>
           <Top Valor="331"/>
           <Width Valor="96"/>
@@ -549,7 +549,7 @@
             </Ligacao>
           </Ligacoes>
         </Atributo>
-        <Atributo nome="Preço" id="63">
+        <Atributo nome="PreÃ§o" id="63">
           <Left Valor="697"/>
           <Top Valor="317"/>
           <Width Valor="59"/>
@@ -581,7 +581,7 @@
             </Ligacao>
           </Ligacoes>
         </Atributo>
-        <Atributo nome="Data Fabricação" id="69">
+        <Atributo nome="Data FabricaÃ§Ã£o" id="69">
           <Left Valor="642"/>
           <Top Valor="255"/>
           <Width Valor="118"/>
@@ -623,7 +623,7 @@
       <AutoRelacoes AutoRelacionado="0"/>
       <Especializacoes ehEsp="0"/>
     </Entidade>
-    <Entidade nome="Manutenção" id="92">
+    <Entidade nome="ManutenÃ§Ã£o" id="92">
       <Left Valor="560"/>
       <Top Valor="483"/>
       <Width Valor="102"/>

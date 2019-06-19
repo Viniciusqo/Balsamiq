@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <MER>
 	<Informacoes>
-		<Posicao Left="0" Top="201"/>
-		<TotalItens Valor="48"/>
+		<Posicao Left="0" Top="67"/>
+		<TotalItens Valor="49"/>
 		<Tipo Valor="LÓGICO"/>
 		<Versao Valor="2.0.0"/>
 		<Autor Valor=""/>
@@ -29,9 +29,9 @@
 	<Tabelas>
     <Tabela nome="Carros" id="7">
       <Left Valor="666"/>
-      <Top Valor="133"/>
+      <Top Valor="115"/>
       <Width Valor="224"/>
-      <Height Valor="154"/>
+      <Height Valor="190"/>
       <Fonte default="-1"/>
       <Dicionario></Dicionario>
       <Nula Valor="0"/>
@@ -44,7 +44,7 @@
       <Campos>
         <Campo nome="IDcarros" id="8">
           <Left Valor="666"/>
-          <Top Valor="152"/>
+          <Top Valor="134"/>
           <Width Valor="222"/>
           <Height Valor="19"/>
           <Fonte default="-1"/>
@@ -65,7 +65,7 @@
         </Campo>
         <Campo nome="IDclientes" id="26">
           <Left Valor="666"/>
-          <Top Valor="170"/>
+          <Top Valor="152"/>
           <Width Valor="222"/>
           <Height Valor="19"/>
           <Fonte default="-1"/>
@@ -86,7 +86,7 @@
         </Campo>
         <Campo nome="Marca" id="9">
           <Left Valor="666"/>
-          <Top Valor="188"/>
+          <Top Valor="170"/>
           <Width Valor="222"/>
           <Height Valor="19"/>
           <Fonte default="-1"/>
@@ -107,7 +107,7 @@
         </Campo>
         <Campo nome="Modelo" id="10">
           <Left Valor="666"/>
-          <Top Valor="206"/>
+          <Top Valor="188"/>
           <Width Valor="222"/>
           <Height Valor="19"/>
           <Fonte default="-1"/>
@@ -128,7 +128,7 @@
         </Campo>
         <Campo nome="Ano de Fabricação" id="11">
           <Left Valor="666"/>
-          <Top Valor="224"/>
+          <Top Valor="206"/>
           <Width Valor="222"/>
           <Height Valor="19"/>
           <Fonte default="-1"/>
@@ -149,7 +149,7 @@
         </Campo>
         <Campo nome="Data da licenciamento" id="12">
           <Left Valor="666"/>
-          <Top Valor="242"/>
+          <Top Valor="224"/>
           <Width Valor="222"/>
           <Height Valor="19"/>
           <Fonte default="-1"/>
@@ -170,7 +170,7 @@
         </Campo>
         <Campo nome="N° do chassi" id="13">
           <Left Valor="666"/>
-          <Top Valor="260"/>
+          <Top Valor="242"/>
           <Width Valor="222"/>
           <Height Valor="19"/>
           <Fonte default="-1"/>
@@ -183,6 +183,27 @@
           <IsKey Valor="0"/>
           <IsFKey Valor="0"/>
           <Tipo Valor="char (8)"/>
+          <TabOrigem Valor="0"/>
+          <CampoOrigem Valor="0"/>
+          <Complemento Valor=""/>
+          <OnUpdate Valor="0"/>
+          <OnDelete Valor="0"/>
+        </Campo>
+        <Campo nome="Placa" id="43">
+          <Left Valor="666"/>
+          <Top Valor="260"/>
+          <Width Valor="222"/>
+          <Height Valor="19"/>
+          <Fonte default="-1"/>
+          <Dicionario></Dicionario>
+          <Nula Valor="-1"/>
+          <Observacao></Observacao>
+          <Futuro></Futuro>
+          <Anexos/>
+          <ApenasSeparador Valor="0"/>
+          <IsKey Valor="0"/>
+          <IsFKey Valor="0"/>
+          <Tipo Valor="char(8)"/>
           <TabOrigem Valor="0"/>
           <CampoOrigem Valor="0"/>
           <Complemento Valor=""/>
@@ -666,7 +687,7 @@
           <Cardinalidades Cardinalidade="2">
             <Cardinalidade nome="" id="22">
               <Left Valor="778"/>
-              <Top Valor="288"/>
+              <Top Valor="306"/>
               <Width Valor="40"/>
               <Height Valor="20"/>
               <Fonte default="-1"/>
